@@ -17,6 +17,11 @@ Additionally, my Master’s thesis investigated reading growth differences among
 - Are there correlations between student demographics and factors like teacher-student ratio or access to resources?
 
 ## Capstone Links
+Here you can view the interactive [Power BI dashboard.](https://app.powerbi.com/view?r=eyJrIjoiN2RmYjU2ODUtYjg5Ny00ZTQwLTgzNzQtNmRkMjRiNTk4NGJkIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
+
+This is a test for embedding the dashboard
+<iframe title="CAPSTONE_dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiN2RmYjU2ODUtYjg5Ny00ZTQwLTgzNzQtNmRkMjRiNTk4NGJkIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 
 ## Data Sources
 Enrollment and demographics data was pulled from the [Metro Nashville Publis Schools website.](https://mnps.org/cms/one.aspx?objectId=36779577) All additional data (addresses, funding, educator experience, student teacher rations, and achievement scores) came from the [Tennessee Department of Education website.](https://www.tn.gov/education/districts/federal-programs-and-oversight/data/data-downloads.html) Data for the 2022-2023 school year was used, being the most recent school year with data being fully released. 
