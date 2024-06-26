@@ -21,7 +21,7 @@ Here you can view the interactive [Power BI dashboard.](https://app.powerbi.com/
 
 The full [Google Slides presentation](https://docs.google.com/presentation/d/1nwD4UXlWFGEin5B5NHIwvaZ6E85vWXyu7oVqSLnl6II/edit?usp=sharing) can be found here.
 
-And to view the Python code for my analysis, you can check out my Jupyter Notebook.
+And to view the Python code for my analysis, you can check out my [Jupyter Notebook.](https://github.com/jessicabohannon/CAPSTONE/blob/jessica/capstone_eda.ipynb)
 
 ## Skills Used
 - Custom Data Cleaning Functions: Defining and applying custom functions for nuanced data cleaning and transformation.
