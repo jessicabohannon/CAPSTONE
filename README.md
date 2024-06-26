@@ -2,6 +2,13 @@
 
 # Bridging the Gap: Analyzing Equity in Metro Nashville Public Schools
 
+## Capstone Links
+Here you can view the interactive [Power BI dashboard.](https://app.powerbi.com/view?r=eyJrIjoiN2RmYjU2ODUtYjg5Ny00ZTQwLTgzNzQtNmRkMjRiNTk4NGJkIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
+
+The full [Google Slides presentation](https://docs.google.com/presentation/d/1nwD4UXlWFGEin5B5NHIwvaZ6E85vWXyu7oVqSLnl6II/edit?usp=sharing) can be found here.
+
+And to view the Python code for my analysis, you can check out my [Jupyter Notebook.](https://github.com/jessicabohannon/CAPSTONE/blob/jessica/capstone_eda.ipynb)
+
 ## Motivation
 I've been a teacher at a Title 1 MNPS school for six years. My experience gives me insight into both the strengths and weaknesses of MNPS. 
 
@@ -16,13 +23,6 @@ Additionally, my Master’s thesis investigated reading growth differences among
 - Are there disparities in academic performance between students from different racial, ethnic, or socioeconomic backgrounds?
 - Are there correlations between student demographics and factors like teacher-student ratio or access to resources?
 
-## Capstone Links
-Here you can view the interactive [Power BI dashboard.](https://app.powerbi.com/view?r=eyJrIjoiN2RmYjU2ODUtYjg5Ny00ZTQwLTgzNzQtNmRkMjRiNTk4NGJkIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
-
-The full [Google Slides presentation](https://docs.google.com/presentation/d/1nwD4UXlWFGEin5B5NHIwvaZ6E85vWXyu7oVqSLnl6II/edit?usp=sharing) can be found here.
-
-And to view the Python code for my analysis, you can check out my [Jupyter Notebook.](https://github.com/jessicabohannon/CAPSTONE/blob/jessica/capstone_eda.ipynb)
-
 ## Skills Used
 - Custom Data Cleaning Functions: Defining and applying custom functions for nuanced data cleaning and transformation.
 - Iterative Data Processing: Applying transformations across multiple columns and rows using loops and `apply()` method.
@@ -35,7 +35,7 @@ And to view the Python code for my analysis, you can check out my [Jupyter Noteb
 Enrollment and demographics data was pulled from the [Metro Nashville Publis Schools website.](https://mnps.org/cms/one.aspx?objectId=36779577) All additional data (addresses, funding, educator experience, student teacher rations, and achievement scores) came from the [Tennessee Department of Education website.](https://www.tn.gov/education/districts/federal-programs-and-oversight/data/data-downloads.html) Data for the 2022-2023 school year was used, being the most recent school year with data being fully released. 
 
 
-`Python/Pandas` - for exploration, aggregation, and visualization of the data
+`Python/Jupyter Notebook` - for exploration, aggregation, and visualization of the data
 
 `Power BI` - for creating interactive dashboard
 
