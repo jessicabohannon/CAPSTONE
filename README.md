@@ -7,7 +7,7 @@ Here you can view the interactive [Power BI dashboard.](https://app.powerbi.com/
 
 The full [Google Slides presentation](https://docs.google.com/presentation/d/1nwD4UXlWFGEin5B5NHIwvaZ6E85vWXyu7oVqSLnl6II/edit?usp=sharing) can be found here.
 
-And to view the Python code for my analysis, you can check out my [Jupyter Notebook.](https://github.com/jessicabohannon/CAPSTONE/blob/main/jessica/capstone_eda.ipynb)
+And to view the Python code for my analysis, you can check out my [Jupyter Notebook.](https://github.com/jessicabohannon/CAPSTONE/blob/main/notebooks/capstone_eda.ipynb)
 
 ## Motivation
 I've been a teacher at a Title 1 MNPS school for six years. My experience gives me insight into both the strengths and weaknesses of MNPS. 
