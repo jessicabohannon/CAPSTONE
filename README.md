@@ -1,4 +1,4 @@
-![ ](cover_capstone.png)
+![ ](images/cover_capstone.png)
 
 # Bridging the Gap: Analyzing Equity in Metro Nashville Public Schools
 
@@ -34,16 +34,16 @@ Enrollment and demographics data was pulled from the [Metro Nashville Publis Sch
 
 ## Major Findings
 Schools with higher ratios of economically disadvantaged, black, and hispanic students are struggling academically - with economically disadvantaged being the strongest negative correlation.
-<img src="../images/plot_academic_1.jpg" width="300">
-<img src="../images/plot_academic_2.jpg" width="300">
+<img src="images/plot_academic_1.jpg" width="300">
+<img src="images/plot_academic_2.jpg" width="300">
 
 Schools with higher ratios of economically disadvantaged and black students are receiving additional funding, mostly from federal sources.
-<img src="../images/plot_funding.jpg" width="300">
-<img src="../images/plot_funding_2.jpg" width="300">
+<img src="images/plot_funding.jpg" width="300">
+<img src="images/plot_funding_2.jpg" width="300">
 
 Schools with mostly white students tend to get more experienced teachers, while schools with mostly low-income students get less experienced teachers.
-<img src="../images/plot_xp.jpg" width="300">
-<img src="../images/plot_xp_2.jpg" width="300">
+<img src="images/plot_xp.jpg" width="300">
+<img src="images/plot_xp_2.jpg" width="300">
 
 ## Conclusions
 My main recommendation for MNPS is to redraw school zoning lines to desegregate schools. Studies show that desegregation benefits all students, academically and socially. 
