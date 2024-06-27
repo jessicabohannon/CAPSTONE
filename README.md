@@ -19,9 +19,9 @@ Additionally, my Master’s thesis investigated reading growth differences among
 
 ## Questions
 **How do student demographics correlate with academic achievement in Metro Nashville Public Schools?**
-- What is the demographic composition (e.g., race, ethnicity, socioeconomic status) of students within Metro Nashville Public Schools?
-- Are there disparities in academic performance between students from different racial, ethnic, or socioeconomic backgrounds?
-- Are there correlations between student demographics and factors like teacher-student ratio or access to resources?
+- What is the demographic composition of students within Metro Nashville Public Schools?
+- Are there disparities in academic performance between students from different racial or socioeconomic backgrounds?
+- Are there correlations between student demographics and access to resources (funding, experienced teachers, student-teacher ratio)?
 
 ## Skills Used
 - Custom Data Cleaning Functions: Defining and applying custom functions for nuanced data cleaning and transformation.
