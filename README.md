@@ -10,7 +10,7 @@ The full [Google Slides presentation](https://docs.google.com/presentation/d/1nw
 And to view the Python code for my analysis, you can check out my [Jupyter Notebook.](https://github.com/jessicabohannon/CAPSTONE/blob/main/notebooks/capstone_eda.ipynb)
 
 ## Motivation
-I've been a teacher at a Title 1 MNPS school for six years. My experience gives me insight into both the strengths and weaknesses of MNPS. 
+Before transitioning to data analytics, I was a teacher at a Title 1 MNPS school. My experience gives me insight into both the strengths and weaknesses of MNPS. 
 
 One critical issue is the ongoing segregation within Nashville schools. MNPS never fully desegregated, and schools have gradually resegregated over time, reflecting persistent societal challenges and historical inequalities. This impacts educational opportunities across different demographics. 
 
